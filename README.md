@@ -52,3 +52,42 @@ information on my plans for this project.
   servers.
 - Join the [Pretendo Network Discord server](https://invite.gg/pretendo) (but please note: this is primarily a general
   community server, not a place for technical development discussion).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Info for jumbo network project:
+
+
+| Item Name              | MK7 ID | MK8 ID | Notes         |                                            |
+| ---------------------- | ------ | ------ | ------------- | ------------------------------------------ |
+| **Banana**             | 0x00   | 0x01   | Standard item |                                            |
+| **Green Shell**        | 0x01   | 0x02   | Standard item |                                            |
+| **Red Shell**          | 0x02   | 0x03   | Standard item |                                            |
+| **Mushroom**           | 0x03   | 0x04   | Standard item |                                            |
+| **Bob-omb**            | 0x04   | 0x05   | Standard item |                                            |
+| **Blooper**            | 0x05   | 0x06   | Standard item |                                            |
+| **Blue Shell**         | 0x06   | 0x07   | Standard item |                                            |
+| **Lightning**          | 0x0A   | 0x08   | Standard item |                                            |
+| **Bullet Bill**        | 0x09   | 0x09   | Standard item |                                            |
+| **Golden Mushroom**    | 0x0B   | 0x0A   | Standard item |                                            |
+| **Fire Flower**        | 0x0C   | 0x0B   | Standard item |                                            |
+| **Tanooki Leaf**       | 0x0D   | 0x0C   | Standard item |                                            |
+| **Lucky 7**            | 0x0E   | 0x0D   | Standard item |                                            |
+| **Triple Banana**      | 0x11   | 0x11   | Standard item |                                            |
+| **Triple Green Shell** | 0x12   | 0x12   | Standard item |                                            |
+| **Triple Red Shell**   | 0x13   | 0x13   | Standard item | ([The Cutting Room Floor][1], [GitHub][2]) |
+
+[1]: https://tcrf.net/Notes%3AMario_Kart_7?utm_source=chatgpt.com "Notes:Mario Kart 7 - The Cutting Room Floor"
+[2]: https://github.com/memoization/OP-MK7-Plugin?utm_source=chatgpt.com "GitHub - memoization/OP-MK7-Plugin: An OP🔥 Mario Kart 7 plugin supported for all regions and versions."
