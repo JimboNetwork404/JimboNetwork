@@ -89,10 +89,8 @@ Info for jumbo network project:
 | **Triple Green Shell** | 0x12   | 0x12   | Standard item |                                            |
 | **Triple Red Shell**   | 0x13   | 0x13   | Standard item | ([The Cutting Room Floor][1], [GitHub][2]) |
 
-
-
-
-
+[1]: https://tcrf.net/Notes%3AMario_Kart_7?utm_source=chatgpt.com "Notes:Mario Kart 7 - The Cutting Room Floor"
+[2]: https://github.com/memoization/OP-MK7-Plugin?utm_source=chatgpt.com "GitHub - memoization/OP-MK7-Plugin: An OP🔥 Mario Kart 7 plugin supported for all regions and versions."
 
 
 
@@ -101,5 +99,3 @@ Info for jumbo network project:
 
 **CHANGED CODE**
 none yet, (exept readme.md)
-[1]: https://tcrf.net/Notes%3AMario_Kart_7?utm_source=chatgpt.com "Notes:Mario Kart 7 - The Cutting Room Floor"
-[2]: https://github.com/memoization/OP-MK7-Plugin?utm_source=chatgpt.com "GitHub - memoization/OP-MK7-Plugin: An OP🔥 Mario Kart 7 plugin supported for all regions and versions."
